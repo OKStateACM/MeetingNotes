@@ -1,0 +1,67 @@
+8/26/16
+
+# ideas for this year
+
+* group programming
+* soirce control code lab
+* building a resume/profike
+* regional prog. contest
+* ACM distinguished speakers
+* project to work on 
+	* group projects
+	* twitterbot
+		* random sentences
+		* chess
+		* wide vareity of complexity
+		* accessible
+* 'social hour' 
+	* ex, math tea time
+	* meet the dept. and meet people
+* research reading/meeting (more graduate focused)
+	* every week, someone presents a paper, eat cookies, etc
+	* combine with 'social hour'
+* highschool outreach
+	* meridian pre-engineering program
+	* 'cs for all' initiative
+* game assets seminar
+* short, 15-20 min presentation, followed by coding 'hangout'
+* dinner/picnic sometime
+	* cowboy underground?
+	* standing invite for dinner/drinks/etc
+* career exploration?
+* themes each semester
+	* collaborative coding
+	* career building
+	* other topics
+
+# past ideas
+
+* game jam
+* programming content
+
+# changing the current dept.
+
+* career exploration
+* software engineering path
+
+# First Meeting
+
+**Wed 5:30PM**
+*5:00PM officer meeting*
+
+Social hour! Ice breakers! 
+
+Topic ideas, project ideas, Calendar
+
+## todo:
+
+* setup social media + campus link
+* initial topic+project ideas
+* advertisements
+	* swag giveaway
+
+### thinking further out
+
+* pick a topic, maybe some interesting research to talk about
+* find a gues speaker
+* git/svn
