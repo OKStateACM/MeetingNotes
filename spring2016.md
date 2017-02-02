@@ -2,10 +2,10 @@
 
 | Date 	| Topics Covered                | Action Items                      | Agenda/Notes                 |
 |-------|-------------------------------|-----------------------------------|------------------------------|
-| 1/25	| Introductory Info Session     |                                   |                              |
-| 2/1 	| HTML + CSS					|                                   |                              |
-| 2/8 	| Get Git!       				|                                   |                              |
-| **2/11**  | **AI Seminar**    		|                                   |                              |
+| 1/25	| Introductory Info Session     |                                   | [Agenda](https://git.io/vD356) |
+| 2/1 	| HTML + CSS					|                                   |  [Agenda](https://git.io/vDYxi)         |
+| 2/8 	| Get Git!       				|                                   | [Agenda](https://git.io/vD35Y)        |
+| **2/11**  | **AI Workshop**    		|                                   | [Wiki](https://git.io/vD35W)    |
 | 2/15	| Marketing Yourself to Employers |                                 |                              |
 | 2/22	| JavaScript       				|                                   |                              |
 | 3/1 	| Hackathon Prep   				|                                   |                              |
@@ -16,5 +16,5 @@
 | 4/5 	| Computer Hardware				|                                   |                              |
 | 4/12	| Generative Art   				|                                   |                              |
 | **4/19**	| **Department Party**		|                                   |                              |
-| **4/22**	| **Hacking Seminar**		|                                   |                              |
+| **4/22**	| **Hacking Workshop**		|                                   |                              |
 | 4/26	| Elections + End-of-Semester Retrospection	|       				|                              |
