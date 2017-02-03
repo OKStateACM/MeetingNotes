@@ -1,5 +1,3 @@
-# meetingnotes
+# OSU ACM Meeting Notes
 
-# This is a README.
-
-Ta-da...
+This repository holds the meeting notes and minutes for every OSU ACM meeting.
