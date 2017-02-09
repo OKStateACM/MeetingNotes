@@ -4,7 +4,7 @@
 |-------|-------------------------------|-----------------------------------|------------------------------|
 | 1/25	| Introductory Info Session     |                                   | [Agenda](https://git.io/vD356) |
 | 2/1 	| HTML + CSS					|                                   |  [Agenda](https://git.io/vDYxi)         |
-| 2/8 	| Get Git!       				|                                   | [Agenda](https://git.io/vD35Y)        |
+| 2/8 	| Get Git!       				|                                   | [Notes](https://git.io/vDuJz)        |
 | **2/11**  | **AI Workshop**    		|                                   | [Wiki](https://git.io/vD35W)    |
 | 2/15	| Marketing Yourself to Employers |                                 |                              |
 | 2/22	| JavaScript       				|                                   |                              |
