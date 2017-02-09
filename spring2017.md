@@ -6,7 +6,7 @@
 | 2/1 	| HTML + CSS					|                                   |  [Agenda](https://git.io/vDYxi)         |
 | 2/8 	| Get Git!       				|                                   | [Notes](https://git.io/vDuJz)        |
 | **2/11**  | **AI Workshop**    		|                                   | [Wiki](https://git.io/vD35W)    |
-| 2/15	| Marketing Yourself to Employers |                                 |                              |
+| 2/15	| Running a Successful Job Campaign |                                 | [Agenda](https://git.io/vDzo4)  |
 | 2/22	| JavaScript       				|                                   |                              |
 | 3/1 	| Hackathon Prep   				|                                   |                              |
 | **3/3-3/4** | **Hackathon**			|                                   |                              |
