@@ -7,7 +7,7 @@
 | 2/8 	| Get Git!       				|                                   | [Notes](https://git.io/vDuJz)        |
 | **2/11**  | **AI Workshop**    		|                                   | [Wiki](https://git.io/vD35W)    |
 | 2/15	| Running a Successful Job Campaign |                                 | [Agenda](https://git.io/vDzo4)  |
-| 2/22	| JavaScript       				|                                   |                              |
+| 2/22	| JavaScript  |   | [Agenda](https://git.io/vD7xj)         |
 | 3/1 	| Hackathon Prep   				|                                   |                              |
 | **3/3-3/4** | **Hackathon**			|                                   |                              |
 | 3/8 	| Movie Night     				|                                   |                              |
