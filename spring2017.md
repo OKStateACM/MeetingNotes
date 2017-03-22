@@ -11,7 +11,7 @@
 | 3/1 	| Exxon-Mobil Visit   				|                                   |                              |
 | **3/3-3/4** | **Hackathon**			|                                   |                              |
 | 3/8 	| Movie Night     				|                                   |                              |
-| 3/22	| Ruby          				|                                   |                              |
+| 3/22	| Ruby on Rails | | [Agenda](https://git.io/vSetj) |
 | **3/29**	| **Programming Competition**	|                               |                              |
 | 4/5 	| Computer Hardware				|                                   |                              |
 | 4/12	| Generative Art   				|                                   |                              |
