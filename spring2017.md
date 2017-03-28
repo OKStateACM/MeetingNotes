@@ -15,6 +15,7 @@
 | **3/29**	| **Programming Competition**	|                               |                              |
 | 4/5 	| Computer Hardware				|                                   |                              |
 | 4/12	| Generative Art   				|                                   |                              |
-| **4/19**	| **Department Party**		|                                   |                              |
+| 4/19	| HIREarci		|                                   |                              |
+| **4/20**	| **Department Party**		|                                   |                              |
 | **4/22**	| **Hacking Workshop**		|                                   |                              |
 | 4/26	| Elections + End-of-Semester Retrospection	|       				|                              |
