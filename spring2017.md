@@ -13,7 +13,7 @@
 | 3/8 	| Movie Night     				|                                   |                              |
 | 3/22	| Ruby on Rails | | [Agenda](https://git.io/vSetj) |
 | **3/29**	| **Programming Competition**	|                               |                              |
-| 4/5 	| Computer Hardware				|                                   |                              |
+| 4/5 	| Computer Hardware				|                                   | [Agenda](https://git.io/vSE6H)   |
 | 4/12	| Generative Art   				|                                   |                              |
 | 4/19	| HIREarci		|                                   |                              |
 | **4/20**	| **Department Party**		|                                   |                              |
