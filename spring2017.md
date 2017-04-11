@@ -14,7 +14,7 @@
 | 3/22	| Ruby on Rails | | [Agenda](https://git.io/vSetj) |
 | **3/29**	| **Programming Competition**	|                               | [Problems](http://cs.okstate.edu/~acm/problems/spring2017.html)                             |
 | 4/5 	| Computer Hardware				|                                   | [Agenda](https://git.io/vSE6H)   |
-| 4/12	| Generative Art   				|                                   |                              |
+| 4/12	| Generative Art   				|                                   | [Agenda](https://git.io/vS1Ct)   |
 | 4/19	| HIREarci		|                                   |                              |
 | **4/20**	| **Department Party**		|                                   |                              |
 | **4/22**	| **Hacking Workshop**		|                                   |                              |
