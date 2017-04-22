@@ -17,5 +17,5 @@
 | 4/12	| Generative Art   				|                                   | [Agenda](https://git.io/vS1Ct)   |
 | 4/19	| HIREarci		|                                   |                              |
 | **4/20**	| **Department Party**		|                                   |                              |
-| **4/22**	| **Hacking Workshop**		|                                   |                              |
+| **4/22**	| **Hacking Workshop**		|                                   | [Wiki](https://git.io/v9TzK) |
 | 4/26	| Elections + End-of-Semester Retrospection	|       				|                              |
