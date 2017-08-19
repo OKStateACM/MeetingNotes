@@ -47,8 +47,8 @@
     * "Can you tell me a little about your company?"
     * "I saw you were looking for ____ for a ____ position on the hire site. Can you tell me more about what ____ does at your company?"
     * "Do you have any internship/fulltime positions available?" (*I would refrain from asking this unless you're really out of ideas - not a good first impression*)
-  * And now you are having a conversation! The recruiter may ask you about yourself, your experiences, your classes, anything really. 
-    * use this time to talk about something. Don't just blurt out a quick sentence and call it done. 
+  * And now you are having a conversation! The recruiter may ask you about yourself, your experiences, your classes, anything really.
+    * use this time to talk about something. Don't just blurt out a quick sentence and call it done.
   * Ask more questions, (but don't be too annoying) **take notes on relavent information** -> makes it seem like you care, also so you can check back later for interviews, etc.
     * "What do you like best about your company?" (*would not recomend asking then what they like least at this point in the process*)
     * "What is the company culture like?"
@@ -80,7 +80,7 @@
 
 - [A&S Career Services Résumé Help Packet](http://ascareers.okstate.edu/images/pdf/packets/Resume_packet_for_prehealth_math_and_science_majors.pdf)
 
-- [Kaylee's résumé](https://github.com/OKStateACM/meetingnotes/blob/master/FakeResume_KayleeHartman.docx?raw=true)
+- [Kaylee's résumé](https://github.com/OKStateACM/MeetingNotes/blob/master/2016-2017/fall2016/FakeResume_KayleeHartman.docx?raw=true)
 
 - [Template + Resume tips on Careercup](https://www.careercup.com/resume)
 
@@ -91,17 +91,17 @@
 - Portfolios
 
     - [Kalyn Nakano's portfolio](http://kalynnakano.com) – Likes? Dislikes?
-    
+
     - [More programmers' portfolio sites](https://github.com/HackathonHackers/personal-sites)
-    
+
 - GitHub-as-a-portfolio?
 
     - [Github is Your New Resume | Daniel Doubrovkine](http://code.dblock.org/2011/07/14/github-is-your-new-resume.html)
 
     - [Github is my resume | pyDanny](http://pydanny.blogspot.com/2011/08/github-is-my-resume.html)
-    
+
     - [Why GitHub is not your CV | The If Works](https://blog.jcoglan.com/2013/11/15/why-github-is-not-your-cv/)
-    
+
 - LinkedIn?
 
 ***
@@ -111,28 +111,28 @@
 - The CS Interview
 
     - Generally a little more relaxed than the normal interview
-    
+
     - It also judges your skills
-    
+
     - Multiple parts including :
         - A programming assessment
         - A working style (tell me about yourself)
         - Teamwork/adaptability analysis
 
 - The "Big N"
-    
+
     - Refers to Google, Facebook, Microsoft, Apple, Amazon, as well as some other big name companies
-    
+
     - Thousands of applicants
-    
+
     - Very slow recruiting process as well as very small acceptance rate
-    
+
     - Love/hate relationship
 
 - CS Career Questions
-    
+
     - Fantastic Subreddit
-    
+
     - [CS Career Questions](https://www.reddit.com/r/cscareerquestions/)
 
 ***

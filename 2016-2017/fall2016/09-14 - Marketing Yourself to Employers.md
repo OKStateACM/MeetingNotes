@@ -7,14 +7,14 @@
   - 9/21 plan?
     - [Supercomputing Symposium](http://symposium.oscer.ou.edu/)
     - [From Lab to Mobile Meetup](https://appcenter.okstate.edu/content/lab2mobile)
-    
+
 - Upcoming career fairs
   - **9/20**, *9:00a-3:30p* — Engineering/Architecture/Technology (Gallagher-Iba Arena)
   - **9/22**, *12:30p-4:30p* — Business (Gallagher-Iba Arena)
-  
+
 - Résumés
   - [A&S Career Services Résumé Help Packet](http://ascareers.okstate.edu/images/pdf/packets/Resume_packet_for_prehealth_math_and_science_majors.pdf)
-  - [Kaylee's résumé](https://github.com/OKStateACM/meetingnotes/blob/master/FakeResume_KayleeHartman.docx?raw=true)
+  - [Kaylee's résumé](https://github.com/OKStateACM/MeetingNotes/blob/master/2016-2017/fall2016/FakeResume_KayleeHartman.docx?raw=true)
   - [Template + Resume tips on Careercup](https://www.careercup.com/resume)
 
 - Portfolios (often Github)
