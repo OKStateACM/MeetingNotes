@@ -5,7 +5,7 @@ This list is subject to change, but will be kept updated.
 | Date 	| Topics Covered                | Agenda/Notes                 | Point of Contact             |
 |-------|-------------------------------|------------------------------|------------------------------|
 | 8/30	| Intro/Icebreaker Game Night   |                              | Hannah                       |
-| **8/31** 	| **CS Survival Bootcamp**</br>*MSCS 203W, 6pm-8pm*	     | | Andrew                       |
+| **8/31** 	| **CS Survival Bootcamp**</br>*MSCS 203W, 6pm-8pm*	     | [Agenda](https://github.com/OKStateACM/cs-survival-bootcamp/blob/master/README.md) | Andrew                       |
 | 9/6 	| Get Git!       				        |                              | Ben                          |
 | 9/13  | Job Campaigns: Career Fairs, Résumés, Interviews           | | All Officers                 |
 | **9/19** | **CEAT Career Fair** <br>*Gallagher-Iba Arena, 9am-3:30pm* | |                           |
