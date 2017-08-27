@@ -1,10 +1,10 @@
-This list is subject to change, but will be kept updated.
+This list is subject to change, but will be kept updated. **Meetings, unless otherwise stated, will be in _SU 470B_**
 
 *You may prefer this list in [Google Calendar form](https://okstateacm.github.io/calendar/).*
 
 | Date 	| Topics Covered                | Agenda/Notes                 | Point of Contact             |
 |-------|-------------------------------|------------------------------|------------------------------|
-| 8/30	| Intro/Icebreaker Game Night   |                              | Hannah                       |
+| 8/30	| Intro/Icebreaker Game Night </br>*MSCS 206, 5:30pm-6:30pm* | | Hannah                       |
 | **8/31** 	| **CS Survival Bootcamp**</br>*MSCS 203W, 6pm-8pm*	     | [Agenda](https://github.com/OKStateACM/cs-survival-bootcamp/blob/master/README.md) | Andrew                       |
 | 9/6 	| Get Git!       				        |                              | Ben                          |
 | 9/13  | Job Campaigns: Career Fairs, Résumés, Interviews           | | All Officers                 |
