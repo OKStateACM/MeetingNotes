@@ -1,4 +1,4 @@
-This list is subject to change, but will be kept updated.
+This list is subject to change, but will be kept updated. **Meetings, unless otherwise stated, will be in _SU 470B_**
 
 *You may prefer this list in [Google Calendar form](https://okstateacm.github.io/calendar/).*
 
