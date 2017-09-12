@@ -63,6 +63,16 @@ Set up an appointment at [cascareers.okstate.edu](http://cascareers.okstate.edu/
 
             - After doing a little research of the company and their recent ventures, you can bring up a recent (positive) trend by the company. A lot of people enjoy talking about what they do and this will show the recruiter that you have some knowledge of the company.
 
+- What to bring
+
+    - Prepare a folder with some printed off resumes. Don’t only print off enough for your preferred companies.
+
+    - A pen and notepad to jot down any info the recruiter gives you, such as: phone number, application tips, or even a place/time to interview.
+
+    - A bag to hold any handouts from recruiters.
+
+    - A nice smile and a firm handshake.
+
 ## Résumés
 * Check out the [A&S Career Services Résumé Packet](http://ascareers.okstate.edu/images/pdf/packets/Resume_packet_for_prehealth_math_and_science_majors.pdf) for Sample Resumes. (The last one is for CS majors)
   * How might you modify the information in this sample résumé to make it your own?
