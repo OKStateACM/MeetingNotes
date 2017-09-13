@@ -65,7 +65,7 @@ Set up an appointment at [cascareers.okstate.edu](http://cascareers.okstate.edu/
 
             - After doing a little research of the company and their recent ventures, you can bring up a recent (positive) trend by the company. A lot of people enjoy talking about what they do and this will show the recruiter that you have some knowledge of the company.
             
-- What to say
+- What to say - Elevator Pitch
     - Be prepared to properly introduce yourself. Make sure to include your Name, Major and Year, and your Purpose.
         - "Hello, I’m Ethan Mayberry, a sophomore Computer Science major here at OSU. I’m interested in applying for a summer internship            with your company. Would you care to see my resume?”
 
