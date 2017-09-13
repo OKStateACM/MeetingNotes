@@ -9,11 +9,13 @@
 - **9/19 9:00-3:30 in Gallagher-Iba Arena:** CEAT Career Fair
 
 - **Next week's meeting:** SpaceX!
-  - Women in computing meeting
+  - Women in computing meeting to follow
 
 - **9/29-10/1:** [HackerRank University Codesprint](https://www.hackerrank.com/university-codesprint-3)
 
-- Outreach
+- LevelUp Outreach
+
+    - Contact [Colton](mailto:dcholla@ostatemail.okstate.edu) or [Dr. Cline](mailto:david.cline@okstate.edu)
 
 ## General Career Prep Guidance
 
@@ -74,7 +76,19 @@ Set up an appointment at [cascareers.okstate.edu](http://cascareers.okstate.edu/
     - A nice smile and a firm handshake.
 
 ## Résumés
-* Check out the [A&S Career Services Résumé Packet](http://ascareers.okstate.edu/images/pdf/packets/Resume_packet_for_prehealth_math_and_science_majors.pdf) for Sample Resumes. (The last one is for CS majors)
-  * How might you modify the information in this sample résumé to make it your own?
+
+- Analysis of existing résumés
+
+- Building a sample résumé
+
+- Resources
+
+    - [A&S Career Services Résumé Packet](http://ascareers.okstate.edu/images/pdf/packets/Resume_packet_for_prehealth_math_and_science_majors.pdf) for Sample Resumes. (The last one is for CS majors)
+
+    - [/r/cscareerquestions Résumé Advice Threads](https://www.reddit.com/r/cscareerquestions/search?q=author%3AAutoModerator+Resume+Advice+Thread&restrict_sr=on&sort=new&t=all) -- Tuesdays and Saturdays
 
 ## Interviewing
+
+- [Slides](https://docs.google.com/presentation/d/1a7R5Xy4wYgqneUJZNVGBmJiCMrdoH7zDmXGnrsagf1U/edit?usp=sharing)
+
+- [Sample Interview Questions](https://docs.google.com/document/d/19_NBHBvhi5N8vGVG-JdAVUn_lnMdIErt2x_SoOg1GDI/edit?usp=sharing)
