@@ -91,6 +91,8 @@ Set up an appointment at [cascareers.okstate.edu](http://cascareers.okstate.edu/
 
     - [/r/cscareerquestions Résumé Advice Threads](https://www.reddit.com/r/cscareerquestions/search?q=author%3AAutoModerator+Resume+Advice+Thread&restrict_sr=on&sort=new&t=all) -- Tuesdays and Saturdays
 
+    - [/r/cscareerquestions Résumé FAQ](https://www.reddit.com/r/cscareerquestions/wiki/faq_resumes)
+
 ## Interviewing
 
 - [Slides](https://docs.google.com/presentation/d/1a7R5Xy4wYgqneUJZNVGBmJiCMrdoH7zDmXGnrsagf1U/edit?usp=sharing)
