@@ -50,6 +50,10 @@
   
 ### Doing our own activity
 
+Write a bubble sort.
+
+[What is a Bubble Sort?](https://webmshare.com/GGrXE)
+
 ---
 
 ## Some tips to remember in Technical Interviews
