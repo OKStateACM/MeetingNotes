@@ -6,7 +6,7 @@
 
 ## What is a technical interview
 
-  - More advanced than a behaviour interview
+  - More advanced than a behavioural interview
   
   - Interviewer asks technological questions
   
@@ -36,6 +36,8 @@
     
     - Talk through it with your interviewer
     
+    - Squeeze as much info as you can out of your interviewer
+    
 ## Practice, Practice, Practice!
 
   - [Hackerrank](https://www.hackerrank.com)
@@ -52,7 +54,9 @@
 
 ## Some tips to remember in Technical Interviews
 
-  - Hashmaps are a godsend
+  - Use a language you're familiar with
+
+  - Hashmaps and dictionaries are a godsend
   
     - Constant (O(N)) lookup, addition, and removal
     
@@ -69,3 +73,11 @@
     - What kind of hardware will this be running on? (How much power do you have)
     
   - Make sure you have questions after your interview
+
+    - This is an oppurtinity to show your interest in the company
+    
+    - Recent events (S3 shutdown)
+    
+    - Big changes in the tech world (Self driving trucks)
+    
+    - Professional growth (Promotional ladder)
