@@ -70,7 +70,7 @@ Write a bubble sort.
 
   - Hashmaps and dictionaries are a godsend
   
-    - Constant (O(N)) lookup, addition, and removal
+    - Constant (O(1)) lookup, addition, and removal
     
     - Very scaleable
     
