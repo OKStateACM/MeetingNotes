@@ -93,3 +93,8 @@ Write a bubble sort.
     - Big changes in the tech world (Self driving trucks)
     
     - Professional growth (Promotional ladder)
+
+## Resources to use
+
+  - [r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/)
+  - [Cracking The Coding Interview](http://www.crackingthecodinginterview.com/) - Great book on technical interview questions
