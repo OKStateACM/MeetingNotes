@@ -2,6 +2,14 @@
 
 ## Announcements
 
+  - **Cryptography Workshop:** Thursday, September 28 in MSCS 222 (Mac Lab), 6:00-7:00, in conjunction with the Math Club
+
+  - **Programming Competition:** Wednesday, October 5, 5:30-8:30 on the second floor of MSCS
+  
+  - University Codesprint
+  
+    - Contact [Jacob](mailto:jacob.schlecht@okstate.edu)
+
 ###### TBD
 
 ## What is a technical interview
