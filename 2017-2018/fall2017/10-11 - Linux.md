@@ -107,7 +107,12 @@ man <command>
 * Books
 	* There are several books on linux and they're great for learning!
 
-## Activity
+## What to Do Now?
 * Go through as much as you can on [Linux Journey](https://linuxjourney.com/). You'll learn a lot from doing this!
 * If you are feeling like you might like linux, install a distro on your computer.
 * Not wanting to make a huge committment? Install in a VM
+
+## Activity (If we have time)
+* We're going to at least get you started on installing Ubuntu in a Virtual Machine!
+  * [VirtualBox](http://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html) - Please download and install (preferrably before the meeting)
+  * [Ubuntu Flavors](https://www.ubuntu.com/about/about-ubuntu/flavours) - Go here and download a flavor of Ubuntu you like, or go [here](https://www.ubuntu.com/download) to download regular ubuntu (with Unity)
