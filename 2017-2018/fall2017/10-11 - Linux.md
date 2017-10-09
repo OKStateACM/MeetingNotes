@@ -1,5 +1,7 @@
 # Introduction to Linux
 
+# <strong>Please Install [VirtualBox](http://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html) and Download an ISO for [Ubuntu](https://www.ubuntu.com/download) or an [Ubuntu Flavor](https://www.ubuntu.com/about/about-ubuntu/flavours) that you like.</strong>
+
 ## Announcements
 * Programming Competition Winners
   * 1st Place - Brandon Wong - 20pts
