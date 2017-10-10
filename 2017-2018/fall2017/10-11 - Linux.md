@@ -10,6 +10,20 @@
 
 * Stillwater/Okstate Linux Users Group
   * Contact [Andrew](mailto:andrew.bevelhymer@okstate.edu) for details.
+  
+* ACM Shirts!
+  * Sizes: XS-4XL
+  * Preorder price (before **October 20**) is **$15** with an additional $1 for each size after XL
+  * Non-preorder price is **$18** with an additional $1 for each size after XL, but supplies are limited
+  * Preorder ends on October 20
+
+![Shirt that reads "You Had Me At 'Hello World' and features the OSU ACM logo"](https://www.customink.com/proof/adu0-00b6-g08p/242002/front/watermarked_big.jpg)
+
+* Women in Computing in this room following this meeting
+  * Dr. Mills will be speaking about working in a male-dominated field
+  * Snacks provided
+  
+***
 
 ## First of all, what IS Linux?
 
