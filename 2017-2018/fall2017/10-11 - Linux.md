@@ -16,6 +16,7 @@
   * Preorder price (before **October 20**) is **$15** with an additional $1 for each size after XL
   * Non-preorder price is **$18** with an additional $1 for each size after XL, but supplies are limited
   * Preorder ends on October 20
+  * Contact [Hannah](mailto:hscheff@ostatemail.okstate.edu) if you're interested
 
 ![Shirt that reads "You Had Me At 'Hello World' and features the OSU ACM logo"](https://www.customink.com/proof/adu0-00b6-g08p/242002/front/watermarked_big.jpg)
 
