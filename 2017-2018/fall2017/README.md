@@ -13,7 +13,7 @@ This list is subject to change, but will be kept updated. **Meetings, unless oth
 | 9/27	| Technical Interview Questions | [Notes](https://github.com/OKStateACM/MeetingNotes/blob/master/2017-2018/fall2017/09-27%20-%20Technical%20Interviews.md) | Jacob                        |
 | **9/28**	| **Cryptography Workshop** *with Math Club* | [Notes](https://github.com/OKStateACM/CryptoWorkshop), [Video](https://youtu.be/ArkmzhtmPM4)            | Andrew                       |
 | **10/4**  | **Programming Competition**       | [Problems](http://cs.okstate.edu/acm/problems/fall2017/) | Andrew                       |
-| 10/11 | Linux                         | [Notes](https://github.com/OKStateACM/MeetingNotes/blob/master/2017-2018/fall2017/10-11%20-%20Linux.md) | Andrew                       |
+| 10/11 | Linux                         | [Notes](https://github.com/OKStateACM/MeetingNotes/blob/master/2017-2018/fall2017/10-11%20-%20Linux.md), [Video](https://www.youtube.com/watch?v=2h5tcO5Vfho) | Andrew                       |
 | 10/18 | Game Night                    |                              | Hannah                       |
 | 10/25 | ![Raytheon](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Raytheon.svg/320px-Raytheon.svg.png) | | Colton |
 | **10/28 - 10/29** | **Game Jam**<br>*10/28 12pm - 10/29 12pm* |      | Andrew                       |
