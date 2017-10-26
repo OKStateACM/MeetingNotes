@@ -15,7 +15,7 @@ This list is subject to change, but will be kept updated. **Meetings, unless oth
 | **10/4**  | **Programming Competition**       | [Problems](http://cs.okstate.edu/acm/problems/fall2017/) | Andrew                       |
 | 10/11 | Linux                         | [Notes](https://github.com/OKStateACM/MeetingNotes/blob/master/2017-2018/fall2017/10-11%20-%20Linux.md), [Video](https://www.youtube.com/watch?v=2h5tcO5Vfho) | Andrew                       |
 | 10/18 | Game Night                    |                              | Hannah                       |
-| 10/25 | ![Raytheon](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Raytheon.svg/320px-Raytheon.svg.png) | [Prezi](https://prezi.com/-xoviaptabas/software-in-defense/) | Colton |
+| 10/25 | ![Raytheon](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Raytheon.svg/320px-Raytheon.svg.png) | [Prezi](https://prezi.com/-xoviaptabas/software-in-defense/), [Video](https://www.youtube.com/watch?v=8CA0x-Ph6l0) | Colton |
 | **10/28 - 10/29** | **Game Jam**<br>*10/28 12pm - 10/29 12pm* |      | Andrew                       |
 | 11/1  | History of Computing          |                              | Ethan                        |
 | 11/8  | Backend Development and Big Data |                           | Kaylee                       |
