@@ -37,14 +37,14 @@ The computer was created out of a need to solve practical issues in the world as
     * This was a huge conceptual step in the development of computer programming.
     * [Video](https://www.youtube.com/watch?v=OlJns3fPItE)
     
-  * Hollerith’s Punch Card Machine
+ * Hollerith’s Punch Card Machine
     * In 1890, Herman Hollerith created a mechanism using electrical connections to increment a counter and record the information.
     * The idea of the Punch Card machine was that data could be recorded by the presence or absence of a hole on a punch card.
     * For example, in the hole section that specifies marital status, a hole would mean married and no hole would mean single.
     * This punch card system was able to complete the 1980 Census in just 3 years and saving the government millions. 
     * Hollerith then went on to found what would become IBM.
     
-  * Turing Machine
+ * Turing Machine
     * The Turing Machine was invented in 1936 by Alan Turing.
     * The Turing Machine was the notion of a universal machine capable of computing anything that is computable.
     * The central concept of the modern computer was based off this.
