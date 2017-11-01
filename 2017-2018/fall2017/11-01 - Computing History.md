@@ -11,6 +11,8 @@
 
 ![Shirt that reads "You Had Me At 'Hello World' and features the OSU ACM logo"](https://www.customink.com/proof/adu0-00b6-g08p/242002/front/watermarked_big.jpg)
 
+- [Off-topic chat](https://app.groupme.com/join_group/35797643/H8E0Ef)
+
 ***
 
 ## <strong>Why should you care about the history of computing?</strong>
