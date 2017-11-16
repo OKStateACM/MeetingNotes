@@ -19,5 +19,5 @@ This list is subject to change, but will be kept updated. **Meetings, unless oth
 | **10/28 - 10/29** | **Game Jam**<br>*10/28 12pm - 10/29 12pm* |      | Andrew                       |
 | 11/1  | History of Computing          | [Notes](https://github.com/OKStateACM/MeetingNotes/blob/master/2017-2018/fall2017/11-01%20-%20Computing%20History.md)                             | Ethan                        |
 | 11/8  | Big Data | [Prezi](https://prezi.com/view/lbqo1PBqPe81KUJ768Kk/)  | Kaylee                       |
-| 11/15 | ![Cisco](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cisco_logo.svg/320px-Cisco_logo.svg.png) | | Colton |
+| 11/15 | ![Cisco](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cisco_logo.svg/320px-Cisco_logo.svg.png) | [Video](https://www.youtube.com/watch?v=lxTfWYDAgDY) | Colton |
 | 11/29 | Movie Night                   |                              | Hannah                       |
