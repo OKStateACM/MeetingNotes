@@ -4,7 +4,7 @@ This list is subject to change, but will be kept updated. **Meetings, unless oth
 
 | Date 	| Topics Covered                | Agenda/Notes                 | Point of Contact             |
 |-------|-------------------------------|------------------------------|------------------------------|
-| 1/24	| Electron Codelab | [Notes](https://github.com/OKStateACM/ElectronCodelab/) | Ben |
+| 1/24	| Electron Codelab | [Notes](https://github.com/OKStateACM/ElectronCodelab/), [Video](https://youtu.be/RVedymcdsbU) | Ben |
 | 1/31	| Guest Speaker: Geoffrey Simpson | | Ben |
 | 2/7	| | | Ben |
 | 2/14	| Node/Express Codelab | | Andrew |
