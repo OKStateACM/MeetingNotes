@@ -8,7 +8,7 @@ This list is subject to change, but will be kept updated. **Meetings, unless oth
 | 1/31	| Guest Speaker: Geoffrey Simpson | [Video](https://www.youtube.com/watch?v=_xoogjabMfc) | Ben |
 | 2/7	  | Cyber-Physical Systems Lab Tour | | Ben |
 | 2/14	| Node/Express Codelab | [Notes](https://github.com/OKStateACM/CreateYourOwnWebAPI_Codelab), [Video](https://www.youtube.com/watch?v=Tddbh3yOiwc) | Andrew |
-| 2/21	| ![Tinder](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Logo-Tinder.svg/200px-Logo-Tinder.svg.png) | | Ben |
+| 2/21	| ![Tinder](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Logo-Tinder.svg/200px-Logo-Tinder.svg.png) | [Video](https://youtu.be/bKlR6I2j1I0) | Ben |
 | *2/28, 12:30-4:30* | *STEM Career Fair* | | |
 | 2/28	| | | Ben |
 | *3/1, 12:30-4:30* | *All Majors Career Fair* | | |
