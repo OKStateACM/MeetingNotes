@@ -1,7 +1,3 @@
-This list is subject to change, but will be kept updated. **Meetings, unless otherwise stated, will be in _MSCS 203W_**
-
-*You may prefer this list in [Google Calendar form](https://okstateacm.github.io/calendar/).*
-
 | Date 	| Topics Covered                | Agenda/Notes                 | Point of Contact             |
 |-------|-------------------------------|------------------------------|------------------------------|
 | 1/24	| Electron Codelab | [Notes](https://github.com/OKStateACM/ElectronCodelab/), [Video](https://youtu.be/RVedymcdsbU) | Ben |
@@ -13,10 +9,10 @@ This list is subject to change, but will be kept updated. **Meetings, unless oth
 | 2/28	| Game Night | | Ben |
 | *3/1, 12:30-4:30* | *All Majors Career Fair* | | |
 | **3/3 - 3/4**	| **Hacklahoma** | | Andrew |
-| 3/7	| React Codelab | [Notes](https://www.github.com/OKStateACM/ReactCodelab), [Video](https://youtu.be/zWEifB1W0fk) | Ben |
+| 3/7	| React Codelab | [Notes](https://www.github.com/OKStateACM/ReactCodelab) | Ben |
 | 3/14	| Game Night | | Hannah |
 | 3/28	| ![Paycom](http://www.paycom.com/images/new-logo-large-clear-bg.png) | | Ben |
-| 4/4	| Genetic Algorithms Codelab | | Andrew |
-| **4/11**	| **Programming Competition** | | Andrew |
-| 4/18	| Cryptocurrency | | Hunter, Jacob |
+| 4/4	| Genetic Algorithms Codelab | [Notes](https://github.com/OKStateACM/GeneticAlgorithmsCodelab), [Video](https://youtu.be/OYvU4v5dAfU) | Andrew |
+| **4/11**	| **Programming Competition** | [Competition](https://www.hackerrank.com/osu-acm-programming-competition) | Andrew |
+| 4/18	| Cryptocurrency & Blockchains | [Notes](https://github.com/OKStateACM/CryptoNotes), [Video](https://youtu.be/Bt58q2KVOLo) | Hunter, Jacob |
 | 4/25	| Elections | | Ben |
